@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|Big+Shoulders+Display|Gochi+Hand|Mansalva|Saira+Stencil+One&display=swap" rel="stylesheet">
+	<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+
+	<style>
+		#main{
+			width: 80%;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+		}
+		#title{
+			font-size: 74px;
+			color: darkblue;
+			padding: 30px;
+			text-transform: uppercase;
+			font-family: 'Amatic SC', cursive;
+		}
+		#img-div{
+			text-align: center;
+			max-width: 100%;
+		}
+		#image{
+			height: auto;
+			display: block;
+			max-width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+
+		}
+		p{
+			font-family: 'Big Shoulders Display', cursive;
+			font-size: 20px;
+		}
+		h1{
+			font-family: 'Big Shoulders Display', cursive;
+			font-size: 40px;
+			color: darkblue;
+		}
+		#img-caption{
+			text-align: center;
+		}
+		#tribute-info{
+			text-align: center;
+		}
+		#quote{
+			font-family: 'Gochi Hand', cursive;
+		}
+		#tribute-link{
+			color: darkblue;
+			text-decoration: none;
+			font-family: 'Big Shoulders Display', cursive;
+			font-size: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div id="main">
+		<div id="title">Transgressive fiction n n n </div>
+		<div id="img-div">
+			<img src="https://miro.medium.com/max/1024/1*vt2cgUt45owUumx1D1x-Xg.jpeg" alt="transgression" id="image">
+		</div>
+			<h1>What the f*ck?</h1>
+			<p id="img-caption"><strong>Transgressive fiction</strong> is a genre of literature which focuses on characters who feel confined by the norms and expectations of society and who break free of those confines in unusual or illicit ways.</p>
+			<h1>No, seriously... what the f*ck?</h1>
+			<p id="tribute-info">Because they are rebelling against the basic norms of society, protagonists of transgressive fiction may seem <strong>mentally ill, anti-social, or nihilistic</strong>. The genre deals extensively with taboo subject matters such as drugs, sexual activity, violence, incest, pedophilia, and crime. The genre of "transgressive fiction" was defined by Los Angeles Times literary critic Michael Silverblatt.</p>
+			<h1>Fine, but did Coelho say anything about it?</h1>
+			<p>Nope.</p>
+			<p>But someone else did.</p>
+			<p id="quote">A literary genre that graphically explores such topics as incest and other aberrant sexual practices, mutilation, the sprouting of sexual organs in various places on the human body, urban violence and violence against women, drug use, and highly dysfunctional family relationships, and that is based on the premise that knowledge is to be found at the edge of experience and that the body is the site for gaining knowledge.</p>
+			<p>(Rene Chun, a journalist for The New York Times)</p>
+			<h1>You've got my attention. Tell me more.</h1>
+			<p>HELP YOURSELF, MY FRIEND</p>
+			<a href="https://en.wikipedia.org/wiki/Transgressive_fiction" id="tribute-link" target="_blank">CLICK ME</a>
+			<h1>So... what now?</h1>
+			<p>Your turn. Write.</p>
+			<br>
+			<br>
+			<br>
+			<p>Copyright by XXX</p>
+		</div>
+	</div>
+</body>
+</html>
